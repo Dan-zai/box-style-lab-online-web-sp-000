@@ -48,6 +48,10 @@ img {
   background-color: #fa9c9c;
 }
 
+h4.dubious {
+  background: linear-gradient(to right, #FFF, #000)
+}
+
 .column {
   width: 30%;
   display: inline-block;
